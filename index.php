@@ -12,7 +12,11 @@
     // code...
   }
 
-  while (condition) {
+  while (
+
+
+
+  ) {
     // code...
   }
   
